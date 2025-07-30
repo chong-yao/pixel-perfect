@@ -18,5 +18,5 @@
 
 -   **Image to Excel:** Converts standard image formats (PNG, JPG, etc.) into an `.xlsx` file.
 -   **Excel to Image:** Rebuilds an image from a color-formatted Excel sheet.
--   **Resolution Independent:** The script automatically detects the image resolution for a 1:1 pixel-to-cell conversion. You can also define a custom grid size to downscale images.
+-   **Resolution Independent:** You can define a custom grid size to downscale images (or not).
 -   **Optimized for Performance:** Uses efficient libraries to handle large images and minimize processing time.
