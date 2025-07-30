@@ -1,6 +1,6 @@
 # Pixel-Perfect: Image-to-Excel and Excel-to-Image Converter
 
-basically, map each pixel into a cell
+### basically, map each pixel into a cell
 
 # A program to split an image down to its individual pixels no matter the resolution.
 
@@ -9,7 +9,7 @@ basically, map each pixel into a cell
 #### It can also perform the reverse operationm taking a specially formatted Excel file and converting back into an image.
 
 ### Useful for:
-- ***Upscaling & enhancing low-resolution images**
+- **Upscaling & enhancing low-resolution images**
 - **Detailed Image Editing**: Manually edit images pixel-by-pixel directly within Excel by changing cell colors.
 - **Creative Projects**: Generate unique visual effects or data art
 - **Creating Pixel Art**: Convert any image into a pixelated grid, perfect for artists and designers.
