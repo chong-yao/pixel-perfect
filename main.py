@@ -30,11 +30,11 @@ OPERATION_MODE = 'to_image'
 
 # -- Define file paths:
 # The source image to convert into pixel art.
-INPUT_IMAGE_PATH = Path(r"C:\Users\ochon\OneDrive\Downloads\wallhaven-rq75r7.jpg")
+INPUT_IMAGE_PATH = Path("your_input_image")
 # The path where the generated Excel file will be saved.
-EXCEL_PATH = Path("pixel-art.xlsx")
+EXCEL_PATH = Path("pixels.xlsx")
 # The path where the final image, restored from Excel, will be saved.
-FINAL_IMAGE_PATH = Path("test.png")
+FINAL_IMAGE_PATH = Path("your_output_image.png")
 
 # -- Set processing parameters:
 # The resolution for the pixel art. Set X (width) and Y (height) for the grid.
