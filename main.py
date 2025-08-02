@@ -26,15 +26,15 @@ import sys
 # 'to_excel': Converts the input image to an Excel file.
 # 'to_image': Converts the input Excel file back to an image.
 # 'both':     Runs both conversions sequentially.
-OPERATION_MODE = 'to_image'
+OPERATION_MODE = 'both'
 
 # -- Define file paths:
 # The source image to convert into pixel art.
-INPUT_IMAGE_PATH = Path("your_input_image")
+INPUT_IMAGE_PATH = Path("image-1920x1080")
 # The path where the generated Excel file will be saved.
 EXCEL_PATH = Path("pixels.xlsx")
 # The path where the final image, restored from Excel, will be saved.
-FINAL_IMAGE_PATH = Path("your_output_image.png")
+FINAL_IMAGE_PATH = Path("z")
 
 # -- Set processing parameters:
 # The resolution for the pixel art. Set X (width) and Y (height) for the grid.
